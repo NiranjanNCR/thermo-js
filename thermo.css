@@ -1,0 +1,21 @@
+
+    body{
+        background-color: rgb(44, 43, 43);
+    }
+    .outerDiv{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 15%;
+    }
+    .innerDiv{
+        background-color: rgb(2, 167, 249);
+        height: 300px;
+        width: 500px;
+        text-align: center;
+    }
+    .main-heading{
+        color: rgb(252, 198, 6);
+        font-size: 3.5rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
